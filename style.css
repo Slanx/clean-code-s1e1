@@ -54,7 +54,8 @@
   list-style: none;
 }
 
-input, button{
+input, 
+button{
   outline: none;
 }
 
@@ -123,7 +124,7 @@ input, button{
   vertical-align: middle;
 }
 
-.item-list__checkbox{
+.item-list__checkbox {
   margin: 0 10px;
 }
 
